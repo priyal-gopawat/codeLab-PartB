@@ -19,12 +19,20 @@ public class MainActivity extends AppCompatActivity {
         mShowCount = (TextView) findViewById(R.id.show_count);
     }
 
+    /**
+     * showing toast on the bottom of the screen for a short period of time
+     * @param view
+     */
     public void showToast(View view) {
         Toast toast = Toast.makeText(this,R.string.toast_message,Toast.LENGTH_SHORT);
         toast.show();
 
     }
 
+    /**
+     * showing count inc. by 1
+     * @param view
+     */
     public void countUp(View view) {
         ++mCount;
         if (mShowCount != null)
