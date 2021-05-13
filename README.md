@@ -1,7 +1,7 @@
 # codeLab-PartB
-### Hello Toast
+ Hello Toast
 
-### Features Of Application :
+Features Of Application :
 
 - Showing hello toast by toast button
   
@@ -10,7 +10,7 @@
 - Showing hello toast in portrait and landscape orientation.
   
 
-### Applications Previews :
+ Applications Previews :
 
 ![1jpeg](https://github.com/priyal-gopawat/Storage/blob/main/Code%20Labs/Part%20B/1.jpeg)
 
